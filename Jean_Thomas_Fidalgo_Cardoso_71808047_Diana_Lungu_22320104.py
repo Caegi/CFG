@@ -1,6 +1,5 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-# Author: Timothée Bernard (timothee.bernard@u-paris.fr)
 
 import random
 
